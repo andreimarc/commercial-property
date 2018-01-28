@@ -1,0 +1,39 @@
+.bc-FormInput__label {
+  color: #333;
+  display: block;
+  font-size: 14px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.bc-FormInput__input {
+  display: block;
+  font-size: 15px;
+  width: 238px;
+  height: 35px;
+  border-radius: 5px;
+  outline: 0;
+  border: 1px solid #83a9af;
+  box-shadow: 0 0 2px 0 #c0c0c0 inset;
+  padding: 0 10px;
+  margin-bottom: 5px;
+}
+
+.bc-FormInput__subtext {
+  color: #83a9af;
+  font-size: 12px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.bc-FormInput__select {
+  width: 260px;
+  font-size: 15px;
+  -webkit-appearance: none;
+  background: white;
+  border: 1px solid #83a9af;
+  height: 37px;
+  box-shadow: 0 0 2px 0 #c0c0c0 inset;
+  padding: 0 10px;
+  outline: 0;
+}
