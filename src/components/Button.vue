@@ -3,6 +3,7 @@
 </template>
 
 <script>
+// Simple button component with message, type and color attributes
 export default {
   name: 'Button',
   props: {
